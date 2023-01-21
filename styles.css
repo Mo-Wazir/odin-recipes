@@ -1,0 +1,40 @@
+*{
+    font-size: 700;
+}
+
+.h-header, li {
+    background-color: rgb(176, 233, 176);
+    color: rgb(231, 75, 153);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 700;
+    
+}
+
+.list-container {
+    list-style-type: square;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    background-color: blanchedalmond;
+    color: rgb(145, 35, 35);
+}
+
+.list-items{
+    color: rgb(249, 168, 168);
+    background-color: rgb(199, 151, 243);
+    
+}
+
+.h-header, .list-container, .list-items {
+    width: fit-content;
+}
+
+a{
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 700;
+}
+
+a:hover{
+    
+    color: aqua;
+    
+}

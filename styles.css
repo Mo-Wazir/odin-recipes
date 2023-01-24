@@ -69,7 +69,7 @@ img {
 }
 
 .list-recipes {
-    list-style-type: square;
+    list-style-type: disc;
     padding: 2px;
     margin: 3px;
     font-size: 700;

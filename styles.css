@@ -63,7 +63,7 @@ img {
     
     background-color: rgb(195, 123, 123);
     text-decoration: dotted;
-    width: fit-content;
+    width: auto;
     font-size: medium;
     color: rgb(249, 244, 234)
 }

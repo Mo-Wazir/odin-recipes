@@ -52,7 +52,7 @@ a:hover{
 }
 hr {
     background-color: chartreuse;
-    color:chartreuse
+    color: hotpink;
 }
 img {
     height: auto;
@@ -73,11 +73,6 @@ img {
     padding: 2px;
     margin: 3px;
     font-size: 700;
-    color: whitesmoke;
+    color: darkblue;
     background-color: burlywood;
 }
-
-
-line height, pseudo class (a:link, a:hover, a:visited, a:active) list_type_image: url (),
-
-

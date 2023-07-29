@@ -21,7 +21,8 @@ body{
 
 .list-items{
     color: rgb(246, 228, 228);
-    background-color: rgb(13, 1, 26);
+    background-color: bisque;
+    line-height: 1.4;
     
 }
 
@@ -31,15 +32,13 @@ body{
 
 a{
     text-decoration: none;
-    font-family: fantasy;
-    font-size: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
     color: brown;
 }
 
 a:hover{
-    
-    color: yellow;
-    
+    color:black;
 }
 
 /* css files added to pages enter ./recipes  */

@@ -33,7 +33,7 @@ body{
 a{
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
-    font-size:x-large;
+    font-size: large;
     color: brown;
 }
 
@@ -52,7 +52,7 @@ a:hover{
 }
 hr {
     background-color: chartreuse;
-    color: hotpink;
+    color: papayawhip;
 }
 img {
     height: auto;
